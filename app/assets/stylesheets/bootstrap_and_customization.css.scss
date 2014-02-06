@@ -1,5 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
 $body-bg:	#3498db;
 $navbar-inverse-bg:		#bdc3c7;
-$navbar-default-link-color:	black;
+$navbar-default-link-color:	#c0392b;
 $brand-primary: #34495e;
 @import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
